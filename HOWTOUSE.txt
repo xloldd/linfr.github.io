@@ -1,0 +1,1 @@
+Hi users. If you would like a version of the site, unblocked and just for yourself, go to the newest release, download source code.zip and open up "main.html" inside of the folder using file manager. Then, you get a new link that is just for yourself that is the exact same as the site! Your version will also automatically update.
